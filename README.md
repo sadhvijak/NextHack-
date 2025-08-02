@@ -1,4 +1,4 @@
-# Interview Preparation and Assessment Tool
+# Interview Edge
 
 A Streamlit-based application that helps interviewers prepare for technical interviews by generating relevant questions, coding problems, and tracking candidate progress through the hiring pipeline.
 
