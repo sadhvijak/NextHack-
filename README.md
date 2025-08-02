@@ -34,7 +34,7 @@ A Streamlit-based application that helps interviewers prepare for technical inte
    AWS_REGION=your_aws_region
    S3_BUCKET_NAME=your_s3_bucket_name
    S3_BUCKET_FEEDBACK=your_s3_feedback_bucket
-   GITHUB_API_TOKEN=your_github_token  # Optional
+   GITHUB_API_TOKEN=your_github_token 
    ```
 
 ## Usage
